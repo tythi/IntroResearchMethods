@@ -13,13 +13,8 @@ Some research has been done for example that of Smirnov; showing a relation betw
 
 # Research question and hypothesis
 **Research question:** Did the increase in a Twitter message length have an effect on average tweet or word length?
+
 **Hypotheses:** The average length of tweets increased by 50% after the increase of the character limit.
-
-Independent variables: age, gender, year
-Dependent variables: average word length, average sentence length
-
-Method:
-Analyse twitter messages gathered by the university
 
 # Method
 The Twitter corpus made and maintained by the Rijksuniversiteit Groningen will be used. These tweets range from 2010 to the current day. Because 2023 is not over yet the tweets from that year will be excluded. It is however important to mention that in 2023 the character limit was increased to 4000 for users with 'Twitter blue'. This could be interesting to investigate in the future.
