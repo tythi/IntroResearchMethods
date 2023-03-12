@@ -19,7 +19,7 @@ Some research has been done for example that of Smirnov; showing a relation betw
 # Method
 The Twitter corpus made and maintained by the Rijksuniversiteit Groningen will be used. These tweets range from 2010 to the current day. Because 2023 is not over yet the tweets from that year will be excluded. It is however important to mention that in 2023 the character limit was increased to 4000 for users with 'Twitter blue'. This could be interesting to investigate in the future.
 
-We will be running a program which will output certain data: the average word length of a tweet, the average tweet length, the average word length of the tweets and more.
+We will use a program which will output certain data: the average word length of a tweet, the average tweet length, the average word length of the tweets and more.
 
 |  | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2019 | 2020 | 2021 | 2022 |
 | - | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
