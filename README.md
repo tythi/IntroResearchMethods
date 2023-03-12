@@ -25,5 +25,3 @@ We will be running a program which will output certain data: the average word le
 | - | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Average word length |
 | Average tweet length |
-
-To visualise this we will be using Jupyter Notebook to produce visualisations and reduce the amount of knowledge anyone needs to interpret them.
